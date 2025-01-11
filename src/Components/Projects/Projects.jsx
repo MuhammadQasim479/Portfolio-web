@@ -1,5 +1,5 @@
 import React from 'react'
-import './projects.css'
+import './projects.css';
 import Card from '../Card/Card'
 import varr from '../../assets/va.png'
 import fw from '../../assets/fw.png'
